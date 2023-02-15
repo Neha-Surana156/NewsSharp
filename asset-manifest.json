@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/NewsSharp/static/js/main.f9a7c3cd.js",
+    "main.js": "/NewsSharp/static/js/main.7e65fdfa.js",
     "static/media/load.gif": "/NewsSharp/static/media/load.543969cba7fb206699ff.gif",
     "index.html": "/NewsSharp/index.html",
-    "main.f9a7c3cd.js.map": "/NewsSharp/static/js/main.f9a7c3cd.js.map"
+    "main.7e65fdfa.js.map": "/NewsSharp/static/js/main.7e65fdfa.js.map"
   },
   "entrypoints": [
-    "static/js/main.f9a7c3cd.js"
+    "static/js/main.7e65fdfa.js"
   ]
 }
