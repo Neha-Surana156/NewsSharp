@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/NewsSharpAPI/static/js/main.13db8ae2.js",
+    "static/media/load.gif": "/NewsSharpAPI/static/media/load.543969cba7fb206699ff.gif",
+    "index.html": "/NewsSharpAPI/index.html",
+    "main.13db8ae2.js.map": "/NewsSharpAPI/static/js/main.13db8ae2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.13db8ae2.js"
+  ]
+}
